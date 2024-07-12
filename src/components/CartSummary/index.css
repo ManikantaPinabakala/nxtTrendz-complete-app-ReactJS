@@ -1,0 +1,33 @@
+.summary-container {
+  align-self: flex-end;
+  margin-bottom: 30px;
+}
+
+.order-total-heading {
+  color: #616e7c;
+  font-size: 16px;
+}
+
+.order-total {
+  color: #171f46;
+  font-size: 22px;
+  margin-left: 5px;
+}
+
+.summary-list-length-text {
+  color: #616e7c;
+  font-weight: 500;
+  margin-top: 5px;
+}
+
+.checkout-button {
+  background-color: #0b69ff;
+  border: none;
+  border-radius: 5px;
+  width: 100%;
+  padding: 10px;
+  color: #ffffff;
+  font-weight: 700;
+  margin-top: 5px;
+  cursor: pointer;
+}
