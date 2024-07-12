@@ -84,9 +84,6 @@ class App extends Component {
         cartList: [...prevState.cartList, product],
       }))
     }
-    //   TODO: Update the code here to implement addCartItem
-    // ({cartList: [...prevState.cartList, product]})
-    console.log(cartList)
   }
 
   render() {
